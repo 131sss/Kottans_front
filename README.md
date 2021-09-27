@@ -1,4 +1,4 @@
-# kottans-frontend
+# frontend
 [Study Plan](https://github.com/kottans/frontend/blob/master/contents.md#stage-0-self-study)
 
 
