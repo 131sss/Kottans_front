@@ -7,7 +7,7 @@
 General
 - [x] [0. Git Basics](#0-Git-Basics)
 - [x] [1. Linux CLI, and HTTP](#1-Linux-CLI-and-HTTP)
-- [ ] [2. Git Collaboration](#2-Git-Collaboration)
+- [x] [2. Git Collaboration](#2-Git-Collaboration)
 
 Front-End Basics
 - [ ] [3. Intro to HTML and CSS](#3-Intro-to-HTML-and-CSS)
