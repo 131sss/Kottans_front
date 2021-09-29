@@ -10,7 +10,7 @@ General
 - [x] [2. Git Collaboration](#2-Git-Collaboration)
 
 Front-End Basics
-- [ ] [3. Intro to HTML and CSS](#3-Intro-to-HTML-and-CSS)
+- [x] [3. Intro to HTML and CSS](#3-Intro-to-HTML-and-CSS)
 - [ ] [4. Responsive Web Design](#4-Responsive-Web-Design)
 - [ ] [5. HTML and CSS practice Hooli-style Popup](#5-HTML-and-CSS-practice-Hooli-style-Popup) (practice)
 - [ ] [6. JavaScript Basics](#6-JavaScript-Basics)
